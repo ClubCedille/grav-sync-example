@@ -1,11 +1,13 @@
 ---
-title: Quidem do delectus mus leo
-date: 17:34 06/27/2014
-author: Rescue Themes
-body_classes: single single-post postid-15 single-format-standard group-blog
+title: 'Saima means Good Natured'
+date: '17:34 06/27/2014'
+author: 'Rescue Themes'
+body_classes: 'single single-post postid-15 single-format-standard group-blog'
 taxonomy:
     category: Featured
-    tag: [fourth, third]
+    tag:
+        - fourth
+        - third
     featured: true
 ---
 
