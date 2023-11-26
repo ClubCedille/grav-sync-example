@@ -35,7 +35,7 @@ pages:
   type: regular
   dirs:
     - 'page://'
-  theme: halcyon
+  theme: chalk
   order:
     by: default
     dir: asc
