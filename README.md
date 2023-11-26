@@ -1,1 +1,0 @@
-# grav-sync-example
